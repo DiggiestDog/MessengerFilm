@@ -1,0 +1,114 @@
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=BIZ UDGothic">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Anton">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=EB Garamond">
+<style>
+h1 { font-family: 'Anton', serif; font-size: 32px;
+    color:#171717}
+h2 { font-family: 'Anton', serif; font-size: 48px;
+    color:#cccccc
+    padding 1px;
+    }
+sp { font-family: 'EB Garamond' serif; font-size: 13px;
+    color:#171717}
+    
+np{font-family: 'EB Garamond' serif; font-size: 18px;
+    color:#171717
+        
+    }
+    
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+    Box CSS:
+
+.box {
+    width: 200px;
+    height: 275px;
+    margin: 20px;
+    border-width: 10px;
+
+}
+body{
+    font-family: 'Anton' sans-serif;
+    font-size: 13px;
+    color:#cccccc
+}
+
+p {
+    font-family: 'EB Garamond' serif;
+    padding: 10px;
+}
+
+wrapper {
+    margin: 0 auto;
+    width: 1000px;
+    position: absolute;
+}
+
+header {
+    float: left;
+    height: 75px;
+    width: 2000px;
+    background: #AB0000;
+    clear: both;
+}
+
+nav {
+    float: left;
+    height: 40px;
+    width: 2000px;
+    background: #6E0000;
+}
+
+content {
+    float: left;
+    min-height: 1600px;
+    background: #171717;
+    width: 850px;
+}
+    
+filler {
+    background: #171717;
+    max-height: 1600px;
+    min-height: 0px;
+    min-width: 0px;
+    max-width: 2000px;
+    background-attachment: local
+        
+    }
+Rcol {
+    background: #cccccc;
+    min-height: 1600px;
+    height: scale;
+    width: 150px;
+    float: left;
+    align-self: auto;
+    object-fit: scale;}
+    
+lcol {
+    background: #cccccc;
+    min-height: 1600px;
+    height: scale;
+    width: 150px;
+    float: left;
+    align-self: auto;
+    object-fit: scale;
+    
+}
+
+footer {
+    height: 80px;
+    width: 2000px;
+    background: #4D0000;
+    clear: both;
+}
+form_contact {
+    height: 280px;
+    width: 2000px;
+    background: #4D0000;
+    clear: both;
+}
+    </style>
